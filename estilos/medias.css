@@ -9,7 +9,6 @@
     /*tablet*/
     body{
         background-image: linear-gradient(#49a09d, #5f2c82);
-        height: 100%;
      }
     body, html{
         font-size: 1.1em;
@@ -38,7 +37,6 @@
     /*pc*/
     body{
        background-image: linear-gradient(#49a09d, #5f2c82);
-       height: 100%;
     }
     body, html{
         font-size: 1.1em;
@@ -60,6 +58,6 @@
     }
     .campo > input{
         width: calc(100% - 45px);
-        transform: translateY(-5px);
+        transform: translateY(-4px);
     }
 }
