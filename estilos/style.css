@@ -69,7 +69,7 @@ section#login > div#formulario{
    height: 100%;
    border-radius: 8px;
    border: none;
-   transform: translateY(-1px);
+   transform: translateY(-1.5px);
 }
 h1{
     text-align: center;
